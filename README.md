@@ -42,7 +42,7 @@ Latihan1  Membuat Program Penjualan Barang
 =>> Flowchart :
 
 
-![image](https://user-images.githubusercontent.com/43899109/47916885-45cb7a80-deda-11e8-8ab3-be5919259bf2.png)
+![flowchart_latihan1](https://user-images.githubusercontent.com/43899109/47918455-3d297300-dedf-11e8-9d56-0eff8bd24fc0.jpg)
 
 
 
